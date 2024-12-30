@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabor Farkas
-- 👀 I’m interested in computer science, logic and mathematics
-- 🌱 I’m currently learning computer science at Queen Mary University of London
+- 👀 I’m interested in computer science, logic and game dev
+- 🌱 I recently graduated from Queen Mary University of London
 - 📫 You can reach me via e-mail: GaborFarkasJr@Gmail.com
 
 <!---
